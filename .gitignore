@@ -1,0 +1,10 @@
+Operating System Junk
+.DS_Store
+Thumbs.db
+.tmp
+.bak
+Packet Tracer and Lab Junk 
+ignore temporary lock/autosave files created by packet tracer.
+.pkz
+.tmp
+.lock
